@@ -6,7 +6,7 @@ This project helps users manage daily tasks efficiently with a minimal and user-
 ---
 
 ## 🚀 Live Demo
-🔗 Live Preview: https://your-username.github.io/todo-list/
+🔗 Live Preview:https://mjunaid65665.github.io/To-Do-List/
 
 ---
 
